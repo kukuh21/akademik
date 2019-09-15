@@ -1,0 +1,12 @@
+- Aplikasi ini dibuat dengan Framework PHP Laravel
+- Silakan import database akademik.sql pada server anda
+- Config Database ada di file .env
+  - DB_DATABASE=akademik
+  -
+DB_USERNAME=root
+  - DB_PASSWORD=
+  - Silakan isi data diatas sesuai dengan nama database yang dibuat, username dan password pada server
+- Silakan buka http://localhost/akademik/public/ (Sesuaikan dengan url anda)
+ /public wajib dibuat
+
+- Silakan login dengan email admin@gmail.com dan password 123456789

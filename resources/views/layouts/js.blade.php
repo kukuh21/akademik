@@ -1,0 +1,12 @@
+<script src="{{ asset('adminLTE/plugins/jQuery/jquery-2.2.3.min.js') }}"></script>
+<script src="{{ asset('adminLTE/bootstrap/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('adminLTE/dist/js/app.min.js') }}"></script>
+<script src="{{ asset('adminLTE/plugins/chartjs/Chart.min.js') }}"></script>
+<script src="{{ asset('adminLTE/plugins/datatables/jquery.dataTables.min.js') }}"></script>
+<script src="{{ asset('adminLTE/plugins/datatables/dataTables.bootstrap.min.js') }}"></script>
+<script src="{{ asset('adminLTE/plugins/datepicker/bootstrap-datepicker.js') }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.8/js/select2.min.js"></script>
+<script src="{{ asset('adminLTE/plugins/input-mask/jquery.inputmask.js') }}"></script>
+<script src="{{ asset('adminLTE/plugins/input-mask/jquery.inputmask.date.extensions.js') }}"></script>
+<script src="{{ asset('adminLTE/plugins/input-mask/jquery.inputmask.extensions.js') }}"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
